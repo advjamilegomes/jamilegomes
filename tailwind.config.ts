@@ -1,6 +1,8 @@
-import type { Config } from "tailwindcss";
+/** @type {import('tailwindcss').Config} */
 
-const config: Config = {
+const defaultTheme = require("tailwindcss/defaultTheme");
+
+module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -9,11 +11,40 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        brandRed: {
+          900: "#5B0101",
+        },
+        brandRose: {
+          700: "#B8979A",
+          200: "#FAF2F0",
+        },
+        brandOrange: {
+          900: "#D19343",
+        },
+        brandBase1: {
+          100: "#fffbec",
+        },
+        brandBase2: {
+          200: "#e3deca",
+        },
+        brandBase3: {
+          300: "#d19244",
+        },
+        brandPrimary: "#aa6231",
+        brandSecondary: "#5c2c0c",
+        brandAccent: "#3c3a1e",
+        brandWts: "#006400",
       },
     },
   },
-  plugins: [],
+  daisyui: {
+    themes: [
+      {
+        brand: {
+          primary: "#5c2c0c",
+        },
+      },
+    ],
+  },
+  plugins: [require("daisyui"), require("tailwindcss-directional-shadows")],
 };
-export default config;
