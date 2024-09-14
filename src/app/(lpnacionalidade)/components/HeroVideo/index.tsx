@@ -1,6 +1,5 @@
 "use client";
 
-import HowWeHelp from "../HowWeHelp";
 import Advantages from "../Advantages";
 import ButtonHero from "../Buttons/buttonhero";
 import ButtonFloat from "../Buttons/buttonfloat";
@@ -14,6 +13,7 @@ import LogoJam from "../../../../../public/assets/images/jamilelogo1.svg";
 import { GoogleReviews } from "../GoogleReviews";
 import { HowItWorks } from "../HowItWorks";
 import { GoogleBusiness } from "../GoogleBusiness";
+import { HowWeHelp } from "../HowWeHelp";
 
 export function HeroVideo() {
   return (

@@ -10,11 +10,11 @@ import "swiper/css/navigation";
 import { Navigation, Autoplay } from "swiper/modules";
 
 import Image from "next/image";
-import client1 from "../../../../../public/assets/images/images/client1.jpeg";
-import client2 from "../../../../../public/assets/images/images/client2.jpeg";
-import client3 from "../../../../../public/assets/images/images/client3.jpeg";
-import client4 from "../../../../../public/assets/images/images/client4.jpeg";
-import client5 from "../../../../../public/assets/images/images/client5.jpeg";
+import client1 from "../../../../../public/assets/images/client1.jpeg";
+import client2 from "../../../../../public/assets/images/client2.jpeg";
+import client3 from "../../../../../public/assets/images/client3.jpeg";
+import client4 from "../../../../../public/assets/images/client4.jpeg";
+import client5 from "../../../../../public/assets/images/client5.jpeg";
 
 export function GoogleBusiness() {
   return (

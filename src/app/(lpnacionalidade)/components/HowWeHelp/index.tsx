@@ -1,4 +1,4 @@
-export default function HowWeHelp() {
+export function HowWeHelp() {
   const features = [
     {
       icon: (
