@@ -1,7 +1,7 @@
 import Image from "next/image";
-import bg1 from "@/app/public/assets/images/bandeiraportugal.jpg";
-import bg2 from "@/app/public/assets/images/bandeirabrasileira.jpeg";
-import bg3 from "@/app/public/assets/images/portugalmagick.webp";
+import bg1 from "../../../../../public/assets/images/bandeiraportugal.jpg";
+import bg2 from "../../../../../public/assets/images/bandeirabrasileira.jpeg";
+import bg3 from "../../../../../public/assets/images/portugalmagick.webp";
 
 export default function Advantages() {
   const features = [

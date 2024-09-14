@@ -1,5 +1,5 @@
 import Image from "next/image";
-import jamile from "@/app/public/assets/images/bgjamile1.webp";
+import jamile from "../../../../../public/assets/images/bgjamile1.webp";
 
 export default function AboutJamile() {
   return (
