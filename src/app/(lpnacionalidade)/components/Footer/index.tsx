@@ -1,6 +1,6 @@
 import Image from "next/image";
-import LogoLM from "@/app/assets/images/lb.org-branca.svg";
-import LogoJam from "@/app/assets/images/jamilelogo2.svg";
+import LogoLM from "@/app/public/assets/images/lb.org-branca.svg";
+import LogoJam from "@/app/public/assets/images/jamilelogo2.svg";
 
 export default function Footer() {
   return (

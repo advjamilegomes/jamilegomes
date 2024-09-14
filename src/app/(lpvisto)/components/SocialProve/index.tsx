@@ -92,32 +92,6 @@ export function SocialProve() {
       clientProve:
         "Trabalho impecável, profissionalismo e dedicação, vale cada centavo pago, as melhores recomendações de minha parte, rapidez e segurança a cada passo do processo. Recomendo muito.Dra Jamile Gomes faz exatamente o que promete com atenção e cuidado do cliente.",
     },
-    // {
-    //   imgURL:
-    //     "https://lh3.googleusercontent.com/a-/ALV-UjV0bYIw7dXmlN3C8N4LpbbCNIXTz621Cdv1RvFRWyeSF16RVNlxJw=w75-h75-p-rp-mo-br100",
-    //   clientName: "Math Moraiis",
-    //   clientProve: "Trabalho excepcional, com foco na necessidade do cliente!",
-    // },
-    // {
-    //   imgURL:
-    //     "https://lh3.googleusercontent.com/a/ACg8ocJpkEZca8QipCsj7V3QN2irLYCxGpyi_MDy5CJHcIsOxKvlwg=w75-h75-p-rp-mo-br100",
-    //   clientName: "Modachic Vestirbem",
-    //   clientProve:
-    //     "Excelente atendimento e eficácia rapidez recomendo. Obrigada por me passar confiança e segurança.",
-    // },
-    // {
-    //   imgURL:
-    //     "https://lh3.googleusercontent.com/a-/ALV-UjVYVf7Rr0DGGINnyZcz4C2xchUSIAPHZETDAyfLRjzn5GoYI9zp=w75-h75-p-rp-mo-br100",
-    //   clientName: "Moreira Gezisclan",
-    //   clientProve: "Ótima  profissional  obrigada  pela  atenção",
-    // },
-    // {
-    //   imgURL:
-    //     "https://lh3.googleusercontent.com/a/ACg8ocJGpBarvOuAKCHVM4ElkPg0L5ROtiTU68FL1Tb4eIIqGcJDJg=w75-h75-p-rp-mo-br100",
-    //   clientName: "Daniel Retamero",
-    //   clientProve:
-    //     "Melhor advogada Disparadaaaa.. Muito eficiente, atenciosa, rápida e muito mais..",
-    // },
   ];
 
   return (

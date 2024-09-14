@@ -1,5 +1,5 @@
 import Image from "next/image";
-import jamile from "@/app/assets/images/jamile.jpeg";
+import jamile from "@/app/public/assets/images/jamile.jpeg";
 
 export function AboutJamile() {
   return (

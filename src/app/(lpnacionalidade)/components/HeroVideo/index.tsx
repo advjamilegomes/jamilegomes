@@ -10,7 +10,7 @@ import "./youtubelite.css";
 import AboutJamile from "../AboutJamile";
 import Faq from "../Faq";
 import Footer from "../Footer";
-import LogoJam from "@/app/assets/images/jamilelogo1.svg";
+import LogoJam from "@/app/public/assets/images/jamilelogo1.svg";
 import { GoogleReviews } from "../GoogleReviews";
 import { HowItWorks } from "../HowItWorks";
 import { GoogleBusiness } from "../GoogleBusiness";

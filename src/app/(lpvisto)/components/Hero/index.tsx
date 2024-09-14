@@ -1,7 +1,7 @@
 import Image from "next/image";
-import imgDesktop from "@/app/assets/images/desktop-jam.webp";
-import imgMobile from "@/app/assets/images/mobile-jam.webp";
-import LogoJam from "@/app/assets/images/jamilelogo1.svg";
+import imgDesktop from "@/app/public/assets/images/desktop-jam.webp";
+import imgMobile from "@/app/public/assets/images/mobile-jam.webp";
+import LogoJam from "@/app/public/assets/images/jamilelogo1.svg";
 
 import {
   HeroCard,
