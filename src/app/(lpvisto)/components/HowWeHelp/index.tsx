@@ -22,80 +22,80 @@ export function HowWeHelp() {
   const features = [
     {
       icon: <ReadCvLogo weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D1 de Trabalho",
-      desc: "Estrangeiros com promessa formal de trabalho ou um contrato de trabalho de pelo menos 12 meses em qualquer empresa sediada em Portugal",
+      title: "V.D1 for work",
+      desc: "Foreigners with a formal job offer or a work contract of at least 12 months with any company based in Portugal",
     },
     {
       icon: <ReadCvLogo weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "Visto de Procura de Trabalho",
-      desc: "Qualquer estrangeiro que tenha interesse de ir a Portugal para procurar trabalho",
+      title: "Job Seeker Visa",
+      desc: "Any foreigner interested in going to Portugal to look for work",
     },
     {
       icon: <UsersFour weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "Visto Acompanhamento Familiar",
-      desc: "Para familiares de requerente de visto de residência - esse visto é pedido em simultâneo com um dos outros visto de residência disponíveis, com exceção do visto de procura de trabalho",
+      title: "Family Reunion Visa",
+      desc: "For family members of a residence permit applicant - this visa is requested simultaneously with one of the other available residence visas, except for the job seeker visa",
     },
     {
       icon: <UsersFour weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D6 Reagrupamento",
-      desc: "Para familiar de residente legal em Portugal",
+      title: "V.D6 Family Reunification Visa",
+      desc: "For family members of a legal resident in Portugal",
     },
     {
       icon: <Laptop weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "Visto Nômade/Remoto",
-      desc: "Estrangeiro que trabalha remotamente e com rendimentos de no mínimo 4 salários mínimos portugueses mensais",
+      title: "Nomad/Remote Worker Visa",
+      desc: "Foreigner who works remotely and has a monthly income of at least 4 Portuguese minimum wages",
     },
     {
       icon: <PiggyBank weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D7 Rendas Próprias",
-      desc: "Para aposentados ou pessoas que percebem rendimentos mensais correspondente a pelo menos 1 salário mínimo português",
+      title: "V.D7 Self-Sufficient Residence Permit",
+      desc: "For retirees or individuals who receive a monthly income of at least 1 Portuguese minimum wage",
     },
     {
       icon: <Briefcase weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D2 Empreendedor/Startup Visa",
-      desc: "Para investidor ou empreendedor em Portugal que tenha um empreendimento economicamente relevante para Portugal",
+      title: "V.D2 Entrepreneur/Startup Visa",
+      desc: "For investors or entrepreneurs in Portugal who have a business that is economically relevant to Portugal",
     },
     {
       icon: (
         <DesktopTower weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />
       ),
       title: "Tech Visa",
-      desc: "Para profissionais altamente qualificados de tecnologia da informação, engenheiro de software, programação, etc. Cadastrados também no Programa Tech Visa",
+      desc: "For highly qualified professionals in information technology, software engineering, programming, etc. Also registered in the Tech Visa Program",
     },
     {
       icon: <Student weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D4 Estudo",
-      desc: "Para estrangeiros com matrícula ou carta de aceitação de instituição de ensino em Portugal que querem ampliar horizontes e melhorar seu currículo. ",
+      title: "V.D4 Student Visa",
+      desc: "For foreigners with an enrollment or acceptance letter from a Portuguese educational institution who want to broaden their horizons and improve their resume",
     },
     {
       icon: <Certificate weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D3 Altamente Qualificado",
-      desc: "Destina-se aos estrangeiros que irão exercer atividade altamente qualificada como cargos diretivos de grandes corporações ou atividades culturais por um período superior a 9 meses com remuneração mensal de no mínimo 1.5x ao salário mínimo bruto português",
+      title: "V.D3 Highly Qualified Worker Visa",
+      desc: "Intended for foreigners who will carry out highly qualified activities such as executive positions in large corporations or cultural activities for a period of more than 9 months with a monthly salary of at least 1.5 times the gross Portuguese minimum wage",
     },
     {
       icon: <Crosshair weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D4 Investigação",
-      desc: "Para quem vai realizar atividade de investigação ou estudo em Portugal",
+      title: "V.D4 Research Visa",
+      desc: "For those who will carry out research or study activities in Portugal",
     },
     {
       icon: <Swap weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D4 Intercâmbio",
-      desc: "Para quem vai realizar atividade de investigação ou estudo em Portugal",
+      title: "V.D4 Exchange Visa",
+      desc: "For those who will carry out research or study activities in Portugal",
     },
     {
       icon: <Student weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D4 Estágio",
-      desc: "Para estudante aceito num estágio em instituição portuguesa",
+      title: "V.D4 Internship Visa",
+      desc: "For a student accepted for an internship in a Portuguese institution",
     },
     {
       icon: <Student weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D4 Voluntariado",
-      desc: "Para pessoa que for convidada por entidade portuguesa para atividade voluntária",
+      title: "V.D4 Volunteer Visa",
+      desc: "For a person invited by a Portuguese entity for volunteer work",
     },
     {
       icon: <Student weight="fill" className="h-20 w-20 sm:h-24 sm:w-24" />,
-      title: "V.D3 Docente ou Cultural",
-      desc: "Para pessoa que tenha contrato de trabalho com empresa portuguesa ou promessa de contrato com valor de 1.5x ao salário mínimo bruto português mensal",
+      title: "V.D3 Teacher or Cultural Worker Visa",
+      desc: "For a person who has a work contract with a Portuguese company or a job offer with a value of 1.5 times the gross Portuguese minimum wage",
     },
   ];
 
@@ -105,14 +105,13 @@ export function HowWeHelp() {
         <div className="mx-auto text-center">
           <div className="mx-auto max-w-4xl space-y-5 px-4 py-8 text-center">
             <h1 className="text-3xl font-medium uppercase tracking-wide text-brandSecondary sm:text-4xl sm:leading-none">
-              Especialidades Jurídicas em {""}
+              Legal Specialties in {""}
               <span className="bg-brandPrimary bg-clip-text font-black text-transparent">
-                Vistos para Portugal
+                Visas for Portugal
               </span>
             </h1>
             <p className="font-medium text-brandPrimary">
-              Ofereço suporte completo em processos de autorização de residência
-              e vistos
+              I'll handle your visa process from start to finish
             </p>
           </div>
         </div>
@@ -140,7 +139,7 @@ export function HowWeHelp() {
                     {item.desc}
                   </p>
                   <ButtonServices>
-                    <ButtonServicesText>saiba mais</ButtonServicesText>
+                    <ButtonServicesText>Find out more</ButtonServicesText>
                     <ButtonServicesFlex>
                       <ArrowCircleUpRight
                         className="h-5 w-5 sm:h-5 sm:w-5"

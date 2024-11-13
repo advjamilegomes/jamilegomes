@@ -101,14 +101,14 @@ export function SocialProve() {
           <div className="mx-auto text-center">
             <div className="mx-auto max-w-4xl space-y-5 px-4 py-8 text-center">
               <h1 className="text-3xl font-medium uppercase tracking-wide text-brandSecondary sm:text-4xl sm:leading-none">
-                Histórias de{" "}
+                Client{" "}
                 <span className="bg-brandPrimary bg-clip-text font-black text-transparent">
-                  Clientes
+                  Testimonials
                 </span>
               </h1>
               <p className="font-medium text-brandPrimary">
-                Conheça algumas das famílias e profissionais que ajudamos a
-                iniciar suas jornadas em Portugal
+                Discover the stories of families and professionals who have made
+                Portugal their home with our help
               </p>
             </div>
           </div>
@@ -148,7 +148,7 @@ export function SocialProve() {
           <div className="mx-auto max-w-fit px-4 pt-4 text-center sm:pt-12">
             <ButtonHome href="https://api.whatsapp.com/send?phone=351933965256&text=Olá%20Dra.%20Jamile,%20vim%20pelo%20site%20e%20preciso%20de%20ajuda%20com%20o%20meu%20Visto.%20Podemos%20conversar%3F%20">
               <ButtonHomeText>
-                seja nosso próximo caso de sucesso
+                Join our growing list of satisfied clients
               </ButtonHomeText>
               <ButtonHomeFlex>
                 <WhatsappLogo className="h-5 w-5 sm:h-6 sm:w-6" weight="fill" />

@@ -7,7 +7,7 @@ import {
   ButtonHomeText,
 } from "../Buttons/ButtonCta";
 
-export default function Faq() {
+export function Faq() {
   const faqList = [
     {
       title: "Qual o prazo para o visto ser emitido?",
@@ -58,7 +58,7 @@ export default function Faq() {
               <div
                 key={idx}
                 tabIndex={0}
-                className="collapse-arrow collapse rounded-lg border-l-4 border-l-brandSecondary shadow-brandSecondary/20 shadow-r-md"
+                className="collapse collapse-arrow rounded-lg border-l-4 border-l-brandSecondary shadow-brandSecondary/20 shadow-r-md"
               >
                 <input type="checkbox" className="peer" aria-label="checkbox" />
                 <div className="collapse-title font-sans font-bold text-brandSecondary">
@@ -73,7 +73,7 @@ export default function Faq() {
         </div>
         <div className="mx-auto max-w-fit px-4 pt-4 text-center sm:pt-12">
           <ButtonHome href="https://api.whatsapp.com/send?phone=351933965256&text=Olá%20Dra.%20Jamile,%20vim%20pelo%20site%20e%20preciso%20de%20ajuda%20com%20o%20meu%20Visto.%20Podemos%20conversar%3F%20">
-            <ButtonHomeText>Ainda Tem Dúvidas? Entre em Contato</ButtonHomeText>
+            <ButtonHomeText>We're here to answer your questions</ButtonHomeText>
             <ButtonHomeFlex>
               <WhatsappLogo className="h-5 w-5 sm:h-6 sm:w-6" weight="fill" />
             </ButtonHomeFlex>

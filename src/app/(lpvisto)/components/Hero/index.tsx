@@ -58,19 +58,19 @@ export function Hero() {
             </HeroImgProperty>
             <HeroCardText>
               <HeroCardH1>
-                Precisa de visto para{" "}
+                Thinking about moving{" "}
                 <span className="bg-brandPrimary bg-clip-text font-black text-transparent">
-                  morar em Portugal?
+                  to Portugal?
                 </span>
               </HeroCardH1>
               <HeroCardP1>
-                Há 2 anos ajudando famílias, investidores, profissionais e
-                estudantes a conquistarem o direito de viver, trabalhar e
-                estudar em Portugal
+                For the past 2 years, we've been guiding families, investors,
+                professionals, and students through the visa process to make
+                their Portuguese dream a reality.
               </HeroCardP1>
             </HeroCardText>
             <ButtonHome href="https://api.whatsapp.com/send?phone=351933965256&text=Olá%20Dra.%20Jamile,%20vim%20pelo%20site%20e%20preciso%20de%20ajuda%20com%20o%20meu%20Visto.%20Podemos%20conversar%3F%20">
-              <ButtonHomeText>eu posso te ajudar</ButtonHomeText>
+              <ButtonHomeText>Let me help you</ButtonHomeText>
               <ButtonHomeFlex>
                 <WhatsappLogo className="h-5 w-5 sm:h-6 sm:w-6" weight="fill" />
               </ButtonHomeFlex>

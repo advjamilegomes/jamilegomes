@@ -62,7 +62,7 @@ export function GoogleReviews() {
         </div>
         <div>
           <h2 className="text-xs font-semibold text-black">
-            22 avaliações no Google
+            22 Google testimonials
           </h2>
         </div>
       </div>

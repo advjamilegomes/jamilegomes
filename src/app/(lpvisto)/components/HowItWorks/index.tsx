@@ -27,7 +27,7 @@ export function HowItWorks() {
               <div className="flex justify-end pt-4">
                 <div className="max-w-fit">
                   <ButtonHome href="https://api.whatsapp.com/send?phone=351933965256&text=Olá%20Dra.%20Jamile,%20vim%20pelo%20site%20e%20preciso%20de%20ajuda%20com%20o%20meu%20Visto.%20Podemos%20conversar%3F%20">
-                    <ButtonHomeText>agende sua consulta agora</ButtonHomeText>
+                    <ButtonHomeText>Book your appointment today</ButtonHomeText>
                     <ButtonHomeFlex>
                       <WhatsappLogo
                         className="h-5 w-5 sm:h-6 sm:w-6"
