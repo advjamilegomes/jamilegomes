@@ -26,7 +26,7 @@ export function HowWeHelp() {
         </svg>
       ),
       title: "Tempo de Residência em Portugal",
-      desc: "Se está legal em Portugal há 5 anos ou mais, então você já tem direito a pedir a nacionalidade portuguesa",
+      desc: "Têm direito a pedir a nacionalidade portuguesa os cidadãos de países da CPLP e de Estados-Membros da União Europeia com 7 anos de residência legal em Portugal, podendo esse período ser contínuo ou interpolado, desde que ocorrido num intervalo máximo de 9 anos. Os cidadãos de outros países precisam de 10 anos de residência legal, dentro de um intervalo máximo de 12 anos.",
     },
     {
       icon: (
@@ -68,7 +68,7 @@ export function HowWeHelp() {
         </svg>
       ),
       title: "Nascimento",
-      desc: "Se você reside em Portugal e o seu filho nasceu em terras portuguesas, ele pode ter direito a nacionalidade portuguesa",
+      desc: "Se você reside legalmente em Portugal há 5 anos ou mais e o seu filho nasceu em território português, ele pode ter direito à nacionalidade portuguesa.",
     },
     {
       icon: (
@@ -81,8 +81,8 @@ export function HowWeHelp() {
           <path d="M164.47,195.63a8,8,0,0,1-6.7,12.37H10.23a8,8,0,0,1-6.7-12.37,95.83,95.83,0,0,1,47.22-37.71,60,60,0,1,1,66.5,0A95.83,95.83,0,0,1,164.47,195.63Zm87.91-.15a95.87,95.87,0,0,0-47.13-37.56A60,60,0,0,0,144.7,54.59a4,4,0,0,0-1.33,6A75.83,75.83,0,0,1,147,150.53a4,4,0,0,0,1.07,5.53,112.32,112.32,0,0,1,29.85,30.83,23.92,23.92,0,0,1,3.65,16.47,4,4,0,0,0,3.95,4.64h60.3a8,8,0,0,0,7.73-5.93A8.22,8.22,0,0,0,252.38,195.48Z"></path>
         </svg>
       ),
-      title: "Pai ou mãe de criança que nasceu em Portugal",
-      desc: "Se o seu filho adquiriu nacionalidade portuguesa por nascimento, você pode ter direito à nacionalidade portuguesa",
+      title: "Ação Judicial",
+      desc: "Seja porque a situação é urgente e não pode esperar, seja porque já passou o prazo legal sem qualquer resposta, existem soluções judiciais para obrigar a Administração a decidir o seu processo de nacionalidade.",
     },
   ];
 

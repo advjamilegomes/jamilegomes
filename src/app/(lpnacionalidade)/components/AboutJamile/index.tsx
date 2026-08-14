@@ -1,5 +1,5 @@
 import Image from "next/image";
-import jamile from "../../../../../public/assets/images/bgjamile1.webp";
+import jamile from "../../../../../public/assets/images/jamile.jpeg";
 
 export default function AboutJamile() {
   return (
@@ -39,7 +39,8 @@ export default function AboutJamile() {
                       data-content="✓"
                       className="step step-primary text-brandSecondary"
                     >
-                      Direito Imigratório
+                      Pós Graduação em Direito Internacional, Imigração &
+                      Migração
                     </li>
                   </ul>
                 </div>

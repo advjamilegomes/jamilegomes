@@ -25,8 +25,7 @@ export default function Footer() {
             </a>
             <div className="mt-6 lg:max-w-sm">
               <p className="text-sm text-brandSecondary">
-                Advocacia e Consultoria Jurídica em Cidadania e Nacionalidade
-                Portuguesa
+                Advocacia e Consultoria Jurídica
               </p>
             </div>
           </div>
@@ -50,6 +49,15 @@ export default function Footer() {
                 className="break-all text-brandSecondary transition-colors duration-300 hover:text-brandSecondary/70"
               >
                 contato@advogadajamilegomes.com
+              </p>
+            </div>
+            <div className="flex">
+              <p className="mr-1 text-brandSecondary">Endereço:</p>
+              <p
+                aria-label="Email"
+                className="break-all text-brandSecondary transition-colors duration-300 hover:text-brandSecondary/70"
+              >
+                Rua de Santa Justa, n.°99, 4705-108, Braga, Portugal
               </p>
             </div>
             <div className="flex">
